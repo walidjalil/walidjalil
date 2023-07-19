@@ -12,18 +12,18 @@ Feel free to dive in, and let's connect if you're interested in collaborating or
 
 ## 🏢 Work Experience
 ### Nordea Bank - Stockholm, Sweden
-**Data Analyst, Trade Finance Bank Management Team** (Sep 2018 - April 2020)
+**Data Analyst, Trade Finance Bank Management Team** (2018 - 2020)
 - Assisted in setting up requirements for analyzing risk-adjusted financial performance.
 - Leveraged VBA to automate special requests for import/export letters of credit (LC), providing support to the TFBM team.
 - Continued to verify the accuracy and robustness of data files destined for the Central Data Warehouse (CDW), similar to my previous work.
 
 ### Nordea Bank - Stockholm, Sweden
-**Business Analyst, Trade & Working Capital** (Summer 2018)
+**Business Analyst, Trade & Working Capital** (2018 - 2018)
 - Assisted in a project focused on the migration of Supply Chain Finance products from Nordea Finance to Nordea Bank. The project's goal was to enable the bank to utilize a more advanced, internal ratings-based approach to calculate necessary capital for credit risk.
 - My responsibilities included verifying the accuracy and robustness of data files designated for the Central Data Warehouse (CDW), and to define specific parts of these files.
 
 ### Atkins Global Consultancy - Abu Dhabi, UAE
-**Civil Engineering Summer Internship** (June 2016 - September 2016)
+**Civil Engineering Summer Internship** (April 2016 - September 2016)
 - Developed a computational tool consisting of formulas to calculate hydraulic flows and evaporation rates in urban stormwater drainage systems.
 - Created models to predict the behavior of stormwater based on roadway gradients, pipeline capacity, water storage, and controlled infiltration into the ground. 
 - These models were primarily used for predictive analysis and not for the actual design and optimization of the infrastructure.
