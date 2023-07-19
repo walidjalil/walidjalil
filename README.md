@@ -12,13 +12,13 @@ Feel free to dive in, and let's connect if you're interested in collaborating or
 
 ## 🏢 Work Experience
 ### Nordea Bank - Stockholm, Sweden
-**Part-time Data Analyst, Trade Finance Bank Management Team** (Sep 2018 - April 2020)
+**Data Analyst, Trade Finance Bank Management Team** (Sep 2018 - April 2020)
 - Assisted in setting up requirements for analyzing risk-adjusted financial performance.
 - Leveraged VBA to automate special requests for import/export letters of credit (LC), providing support to the TFBM team.
 - Continued to verify the accuracy and robustness of data files destined for the Central Data Warehouse (CDW), similar to my previous work.
 
 ### Nordea Bank - Stockholm, Sweden
-**Summer Internship, Trade & Working Capital** (Summer 2018)
+**Business Analyst, Trade & Working Capital** (Summer 2018)
 - Assisted in a project focused on the migration of Supply Chain Finance products from Nordea Finance to Nordea Bank. The project's goal was to enable the bank to utilize a more advanced, internal ratings-based approach to calculate necessary capital for credit risk.
 - My responsibilities included verifying the accuracy and robustness of data files designated for the Central Data Warehouse (CDW), and to define specific parts of these files.
 
