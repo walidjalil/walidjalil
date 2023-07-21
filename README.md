@@ -8,7 +8,9 @@ In this digital repository, you'll find an array of projects where I've applied 
 <!-- This is a comment. It won't be visible in the displayed README. Each piece of code is a story of problem-solving, continual learning, and a pursuit of excellence. -->
 Feel free to dive in, and let's connect if you're interested in collaborating or discussing ideas!
 
-- 📫 How to reach me: **walidaj@kth.se**
+- 📫 How to reach me:
+- Email: **walidaj@kth.se**
+- Phone nr: **+46 (0) 705 33 44 28**
 
 ## 🏢 Work Experience
 ### Nordea Bank - Stockholm, Sweden
