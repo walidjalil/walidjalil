@@ -16,7 +16,7 @@ Feel free to dive in, and let's connect if you're interested in collaborating or
 ### Nordea Bank - Stockholm, Sweden
 **Data Analyst, Trade Finance Bank Management Team** (2018 - 2020)
 - Assisted in setting up requirements for analyzing risk-adjusted financial performance.
-- Leveraged VBA to automate special requests for import/export letters of credit (LC), providing support to the TFBM team.
+- Automated special requests for import/export letters of credit (LC), providing support to the TFBM team.
 - Continued to verify the accuracy and robustness of data files destined for the Central Data Warehouse (CDW), similar to my previous work.
 
 ### Nordea Bank - Stockholm, Sweden
