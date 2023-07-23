@@ -1,4 +1,4 @@
-👋 Hello, World!     **(Please Note: This README may not be up to date.)**
+👋 Hello, World!     (**Please Note:** *This README may not be up to date*.)
 
 I'm a recent graduate from KTH Royal Institute of Technology(HAVENT ACTUALLY GRADUATED YET, SOON), where I completed an Engineering Physics program (**Swedish**: _Civilingenjör inom Teknisk Fysik_) with a Master of Science in Engineering (MSc Eng), Machine Learning. As a passionate Machine Learning Engineer and Data Scientist, I love diving into complex problems and surfacing with solutions that matter.
 
